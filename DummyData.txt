@@ -1,0 +1,20 @@
+[
+    {
+        titulo: "Catalog",
+        baseRoute: "https://qa.cat4mro.com/",
+        ruta: "catalog",
+        orden: "2"
+    },
+    {
+        titulo: "Request for Information"
+        baseRoute: "https://qa.cat4mro.com/",
+        ruta: "request-information"
+        orden:: "3"
+    },
+    {
+        titulo: "My activity"
+        baseRoute: "https://qa.cat4mro.com/",
+        ruta: "report"
+        orden:: "3"
+    }
+]
